@@ -1,0 +1,26 @@
+Feb 23, 2017 11:54:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Feb 23, 2017 11:54:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Feb 23, 2017 11:54:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 23, 2017 11:54:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 23, 2017 11:54:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/Srajan/AppData/Local/Temp/context5810701545104573234.xml'
+Feb 23, 2017 11:54:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/feedfusion'
+Feb 23, 2017 11:56:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 23, 2017 11:56:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/feedfusion'
+Feb 23, 2017 11:56:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 23, 2017 11:56:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/feedfusion'
+Feb 23, 2017 11:57:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 23, 2017 11:57:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 23, 2017 11:57:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/feedfusion'
