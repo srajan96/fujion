@@ -4,17 +4,9 @@
         <servlet-name>GetHomePageData</servlet-name>
         <servlet-class>GetHomePageData</servlet-class>
     </servlet>
-    <servlet>
-        <servlet-name>Register</servlet-name>
-        <servlet-class>Register</servlet-class>
-    </servlet>
     <servlet-mapping>
         <servlet-name>GetHomePageData</servlet-name>
         <url-pattern>/getHomePageData</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
-        <servlet-name>Register</servlet-name>
-        <url-pattern>/Register</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
