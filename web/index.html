@@ -9,9 +9,11 @@
     <script src="script/lib/angular.min.js"></script>
     <script src="script/lib/angular-route.min.js"></script>
     <style>
+    @import "css/bootstrap-material-design.min.css";
     @import "css/font-awesome.min.css";
     @import "css/bootstrap.min.css";
-    @import "css/style.css"
+    @import "css/style.css";
+    /*@import "css/bootstrap-material-design.min.css";*/
   </style>
   </head>
   <body data-status={{dataStatus}}>
@@ -21,7 +23,7 @@
       </div>
     </div>
 
-  <div ng-view class="container-fluid"></div>
+  <div ng-view class="container-fluid" style="padding: 0px;"></div>
 
 
   
@@ -36,6 +38,7 @@
     <script src="properties.js"></script>
     <script src="script/controllers/main.js"></script>
     <script src="script/controllers/home.js"></script>
+    <script src="script/controllers/login.js"></script>
     <script src="script/services/root.js"></script>
 
   </body>

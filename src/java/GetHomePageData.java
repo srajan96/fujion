@@ -66,10 +66,10 @@ public class GetHomePageData extends HttpServlet {
         Twitter twitter = tf.getInstance();
       
         List<Status> statuses;
-        //statuses= twitter.getHomeTimeline();
+        statuses= twitter.getHomeTimeline();
         out.println("Showing home timeline.");
-       // for (Status status : statuses) 
-         //   out.println(status.getUser().getName() + ":" +     status.getText());
+        for (Status status : statuses) 
+            out.println(status.getUser().getName() + ":" +     status.getText());
 
         }
         catch(Exception e){

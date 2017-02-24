@@ -4,9 +4,33 @@
         <servlet-name>GetHomePageData</servlet-name>
         <servlet-class>GetHomePageData</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>Login</servlet-name>
+        <servlet-class>Login</servlet-class>
+        <init-param>
+            <param-name>userdata</param-name>
+            <param-value/>
+        </init-param>
+    </servlet>
+    <servlet>
+        <servlet-name>Register</servlet-name>
+        <servlet-class>Register</servlet-class>
+        <init-param>
+            <param-name>userdata</param-name>
+            <param-value/>
+        </init-param>
+    </servlet>
     <servlet-mapping>
         <servlet-name>GetHomePageData</servlet-name>
         <url-pattern>/getHomePageData</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Login</servlet-name>
+        <url-pattern>/logindata</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Register</servlet-name>
+        <url-pattern>/registerdata</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
