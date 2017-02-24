@@ -1,0 +1,18 @@
+Feb 24, 2017 7:59:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Feb 24, 2017 7:59:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Feb 24, 2017 7:59:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 24, 2017 7:59:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 24, 2017 7:59:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/feedfusion'
+Feb 24, 2017 8:03:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Feb 24, 2017 8:03:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Feb 24, 2017 8:03:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Feb 24, 2017 8:03:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/feedfusion'
